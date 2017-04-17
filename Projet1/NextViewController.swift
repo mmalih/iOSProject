@@ -17,26 +17,25 @@ class NextViewController: UIViewController {
     
     weak var delegate: NextViewControllerDelegate?
     
+    
+    
     @IBAction func touchClick(_ sender: Any) {
         let str = String(arc4random())
         self.delegate?.nextViewController?(self, didAddItem: str)
     }
+    
 
     @IBAction func name(_ sender: Any) {
     }
-    
     
     @IBAction func ecole(_ sender: Any) {
     }
     
     @IBAction func hopital(_ sender: Any) {
     }
-    
-    
+       
     @IBAction func commerce(_ sender: Any) {
-        
     }
-    
     
     @IBAction func lattitude(_ sender: Any) {
     }

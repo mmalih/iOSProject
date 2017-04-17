@@ -15,8 +15,6 @@
 		9634D9761E570D37002F33F3 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9634D9741E570D37002F33F3 /* HomeViewController.xib */; };
 		9634D9791E570D84002F33F3 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9634D9771E570D84002F33F3 /* NextViewController.swift */; };
 		9634D97A1E570D84002F33F3 /* NextViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9634D9781E570D84002F33F3 /* NextViewController.xib */; };
-		9661645F1E72A59900E1ED1F /* NextViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9661645E1E72A59900E1ED1F /* NextViewController.xib */; };
-		966164611E72A60000E1ED1F /* NextViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 966164601E72A60000E1ED1F /* NextViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +28,6 @@
 		9634D9741E570D37002F33F3 /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
 		9634D9771E570D84002F33F3 /* NextViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 		9634D9781E570D84002F33F3 /* NextViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NextViewController.xib; sourceTree = "<group>"; };
-		9661645E1E72A59900E1ED1F /* NextViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = NextViewController.xib; path = "../../../../../Desktop/Bureau - MacBook Pro de Maeva/Documents/ESGI/NextViewController.xib"; sourceTree = "<group>"; };
-		966164601E72A60000E1ED1F /* NextViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = NextViewController.xib; path = "../../../../../Desktop/Bureau - MacBook Pro de Maeva/Documents/ESGI/NextViewController.xib"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,8 +70,6 @@
 				9634D9741E570D37002F33F3 /* HomeViewController.xib */,
 				9634D9771E570D84002F33F3 /* NextViewController.swift */,
 				9634D9781E570D84002F33F3 /* NextViewController.xib */,
-				966164601E72A60000E1ED1F /* NextViewController.xib */,
-				9661645E1E72A59900E1ED1F /* NextViewController.xib */,
 			);
 			path = Projet1;
 			sourceTree = "<group>";
@@ -156,9 +150,7 @@
 				9634D9611E570953002F33F3 /* LaunchScreen.storyboard in Resources */,
 				9634D97A1E570D84002F33F3 /* NextViewController.xib in Resources */,
 				9634D95E1E570953002F33F3 /* Assets.xcassets in Resources */,
-				966164611E72A60000E1ED1F /* NextViewController.xib in Resources */,
 				9634D9761E570D37002F33F3 /* HomeViewController.xib in Resources */,
-				9661645F1E72A59900E1ED1F /* NextViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
